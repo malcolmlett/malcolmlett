@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software engineer by profession. In my spare time I study Consciousness from a neurocomputational point of view. Previously based in Wellington, New Zealand, I'm now based in Chennai, India.
+
+Old github profile:
+* https://github.com/toaomalkster
