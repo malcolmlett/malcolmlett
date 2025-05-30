@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer by profession. In my spare time I study Consciousness from a neurocomputational point of view. Previously based in Wellington, New Zealand, I'm now based in Chennai, India.
+I have been a software engineer by profession for many years, currently transitioning to AI/ML. In my spare time I study Consciousness from a neurocomputational point of view. Previously based in Wellington, New Zealand, I'm now based in Chennai, India.
 
 Personal site:
 * https://malcolmlett.github.io/
